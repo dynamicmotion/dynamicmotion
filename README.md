@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bernard
+- 👀 I’m interested in sharing motor control electronic and other electronic stuff
+- 🌱 I’m currently learning embedded electronic evolution
+- 📫 How to reach me: welcome(a)dynamicmotion,ch
